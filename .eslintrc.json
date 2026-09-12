@@ -10,6 +10,14 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
+  "overrides": [
+    {
+      "files": ["src/test/**/*.js"],
+      "env": {
+        "jest": true
+      }
+    }
+  ],
   "rules": {
     "no-unused-vars": [
       1,
