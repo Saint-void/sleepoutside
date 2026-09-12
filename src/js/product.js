@@ -13,6 +13,8 @@ async function addToCartHandler(e) {
 }
 
 // add listener to Add to Cart button
-document
-  .getElementById("addToCart")
-  .addEventListener("click", addToCartHandler);
+const addToCartButton = document.getElementById("addToCart");
+
+if (addToCartButton) {
+  addToCartButton.addEventListener("click", addToCartHandler);
+}
