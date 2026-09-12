@@ -19,8 +19,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "20°F Pinole Sleeping Bag - Mummy (For Men and Women)",
-      "Name": "Mountain Hardwear 20°F Pinole Sleeping Bag - Mummy (For Men and Women)",
+      "NameWithoutBrand": "20\u00b0F Pinole Sleeping Bag - Mummy (For Men and Women)",
+      "Name": "Mountain Hardwear 20\u00b0F Pinole Sleeping Bag - Mummy (For Men and Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/mountain-hardwear-20-f-pinole-sleeping-bag-mummy-for-men-and-women-in-altitude-blue~p~927vj_01~80.jpg",
@@ -35,7 +35,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -75,8 +77,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "30°F Mavericks Double Wide Sleeping Bag - Square",
-      "Name": "Marmot 30°F Mavericks Double Wide Sleeping Bag - Square",
+      "NameWithoutBrand": "30\u00b0F Mavericks Double Wide Sleeping Bag - Square",
+      "Name": "Marmot 30\u00b0F Mavericks Double Wide Sleeping Bag - Square",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/marmot-30-f-mavericks-double-wide-sleeping-bag-square-in-golden-copper-dark-olive~p~21kmf_01~80.jpg",
@@ -91,7 +93,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["LH"]
+        "ZIPPER": [
+          "LH"
+        ]
       },
       "Colors": [
         {
@@ -125,8 +129,8 @@
         "ReviewCount": 1,
         "AverageRating": 1
       },
-      "NameWithoutBrand": "SpeedValve NeoAir® Camper SV Sleeping Pad - Inflatable, Extra-Large",
-      "Name": "Therm-a-Rest SpeedValve NeoAir® Camper SV Sleeping Pad - Inflatable, Extra-Large",
+      "NameWithoutBrand": "SpeedValve NeoAir\u00ae Camper SV Sleeping Pad - Inflatable, Extra-Large",
+      "Name": "Therm-a-Rest SpeedValve NeoAir\u00ae Camper SV Sleeping Pad - Inflatable, Extra-Large",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/therm-a-rest-speedvalve-neoair-camper-sv-sleeping-pad-inflatable-extra-large-in-blue~p~640gu_01~80.jpg",
@@ -168,8 +172,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "50°F Rambler Sleeping Bag - Semi-Rectangular (For Men and Women)",
-      "Name": "Kelty 50°F Rambler Sleeping Bag - Semi-Rectangular (For Men and Women)",
+      "NameWithoutBrand": "50\u00b0F Rambler Sleeping Bag - Semi-Rectangular (For Men and Women)",
+      "Name": "Kelty 50\u00b0F Rambler Sleeping Bag - Semi-Rectangular (For Men and Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/kelty-50-f-rambler-sleeping-bag-semi-rectangular-for-men-and-women-in-green-apple~p~861py_03~80.jpg",
@@ -192,8 +196,12 @@
         ]
       },
       "SizesAvailable": {
-        "LENGTH": ["REG"],
-        "ZIPPER": ["R"]
+        "LENGTH": [
+          "REG"
+        ],
+        "ZIPPER": [
+          "R"
+        ]
       },
       "Colors": [
         {
@@ -299,8 +307,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "20°F Kenosha Down Sleeping Bag - 650 Fill Power, Mummy (For Men and Women)",
-      "Name": "Marmot 20°F Kenosha Down Sleeping Bag - 650 Fill Power, Mummy (For Men and Women)",
+      "NameWithoutBrand": "20\u00b0F Kenosha Down Sleeping Bag - 650 Fill Power, Mummy (For Men and Women)",
+      "Name": "Marmot 20\u00b0F Kenosha Down Sleeping Bag - 650 Fill Power, Mummy (For Men and Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/marmot-20-f-kenosha-down-sleeping-bag-650-fill-power-mummy-for-men-and-women-in-green-lichen-green-gulch~p~14gvh_01~80.jpg",
@@ -315,7 +323,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -325,7 +335,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/marmot-20-f-kenosha-down-sleeping-bag-650-fill-power-mummy-for-men-and-women-in-green-lichen-green-gulch~p~14gvh_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Sleep under the stars with Marmot&#39;s Kenosha sleeping bag, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Sleep under the stars with Marmot&#39;s Kenosha sleeping bag, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down\u2019s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
       "SuggestedRetailPrice": 260,
       "Brand": {
         "Id": "1308",
@@ -349,8 +359,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "30°F Trestles Elite Sleeping Bag (For Women)",
-      "Name": "Marmot 30°F Trestles Elite Sleeping Bag (For Women)",
+      "NameWithoutBrand": "30\u00b0F Trestles Elite Sleeping Bag (For Women)",
+      "Name": "Marmot 30\u00b0F Trestles Elite Sleeping Bag (For Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/marmot-30-f-trestles-elite-sleeping-bag-for-women-in-turf-green-garden-green~p~621cp_01~80.jpg",
@@ -360,7 +370,9 @@
         "ExtraImages": null
       },
       "SizesAvailable": {
-        "HAND": ["LH"]
+        "HAND": [
+          "LH"
+        ]
       },
       "Colors": [
         {
@@ -370,7 +382,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/marmot-30-f-trestles-elite-sleeping-bag-for-women-in-turf-green-garden-green~p~621cp_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Marmot&#39;s 30&#176;F Trestles Elite sleeping bag promises to keep you toasty-warm in near-freezing weather with HL-ElixR&#174; synthetic insulation that&#39;s a smart combination of three fibers to efficiently trap heat, maintain <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of “dead space” or air throughout an insulating material inside a sleeping bag or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the “puffiness” of down or synthetic insulation.\">loft</a> and feel soft and comfortable.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Marmot&#39;s 30&#176;F Trestles Elite sleeping bag promises to keep you toasty-warm in near-freezing weather with HL-ElixR&#174; synthetic insulation that&#39;s a smart combination of three fibers to efficiently trap heat, maintain <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of \u201cdead space\u201d or air throughout an insulating material inside a sleeping bag or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the \u201cpuffiness\u201d of down or synthetic insulation.\">loft</a> and feel soft and comfortable.",
       "SuggestedRetailPrice": 104.99,
       "Brand": {
         "Id": "1308",
@@ -394,8 +406,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "50°F Gormsson Sleeping Bag - Mummy, Long",
-      "Name": "Nordisk 50°F Gormsson Sleeping Bag - Mummy, Long",
+      "NameWithoutBrand": "50\u00b0F Gormsson Sleeping Bag - Mummy, Long",
+      "Name": "Nordisk 50\u00b0F Gormsson Sleeping Bag - Mummy, Long",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/nordisk-50-f-gormsson-sleeping-bag-mummy-long-in-limoges-blue~p~10hgh_01~80.jpg",
@@ -410,7 +422,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -420,7 +434,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/nordisk-50-f-gormsson-sleeping-bag-mummy-long-in-limoges-blue~p~10hgh_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong>Excess</strong>. Recharge under the stars with Nordisk&#39;s 50&#176;F Gormsson sleeping bag, made from smooth, water-resistant <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> with high-loft synthetic insulation and a roomy footbox for maximum comfort.",
+      "DescriptionHtmlSimple": "<strong>Excess</strong>. Recharge under the stars with Nordisk&#39;s 50&#176;F Gormsson sleeping bag, made from smooth, water-resistant <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont\u00ae, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> with high-loft synthetic insulation and a roomy footbox for maximum comfort.",
       "SuggestedRetailPrice": 190,
       "Brand": {
         "Id": "33133",
@@ -444,8 +458,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "5°F Rampart Down Sleeping Bag - 650 Fill, Mummy (For Men and Women)",
-      "Name": "Marmot 5°F Rampart Down Sleeping Bag - 650 Fill, Mummy (For Men and Women)",
+      "NameWithoutBrand": "5\u00b0F Rampart Down Sleeping Bag - 650 Fill, Mummy (For Men and Women)",
+      "Name": "Marmot 5\u00b0F Rampart Down Sleeping Bag - 650 Fill, Mummy (For Men and Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/marmot-5-f-rampart-down-sleeping-bag-650-fill-mummy-for-men-and-women-in-rusted-orange-mahogany~p~14gvf_01~80.jpg",
@@ -460,7 +474,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -470,7 +486,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/marmot-5-f-rampart-down-sleeping-bag-650-fill-mummy-for-men-and-women-in-rusted-orange-mahogany~p~14gvf_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Sleep under the stars with Marmot&#39;s Rampart sleeping bag, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Sleep under the stars with Marmot&#39;s Rampart sleeping bag, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down\u2019s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
       "SuggestedRetailPrice": 315,
       "Brand": {
         "Id": "1308",
@@ -494,8 +510,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "45° F Traveler Sleeping Bag - Mummy (For Men and Women)",
-      "Name": "Marmot 45° F Traveler Sleeping Bag - Mummy (For Men and Women)",
+      "NameWithoutBrand": "45\u00b0 F Traveler Sleeping Bag - Mummy (For Men and Women)",
+      "Name": "Marmot 45\u00b0 F Traveler Sleeping Bag - Mummy (For Men and Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/marmot-45-f-traveler-sleeping-bag-mummy-for-men-and-women-in-redstone~p~14hdk_01~80.jpg",
@@ -510,7 +526,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -544,8 +562,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "14°F Oscar Sleeping Bag - Mummy, Long",
-      "Name": "Nordisk 14°F Oscar Sleeping Bag - Mummy, Long",
+      "NameWithoutBrand": "14\u00b0F Oscar Sleeping Bag - Mummy, Long",
+      "Name": "Nordisk 14\u00b0F Oscar Sleeping Bag - Mummy, Long",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/nordisk-14-f-oscar-sleeping-bag-mummy-long-in-mustard~p~10hkn_01~80.jpg",
@@ -560,7 +578,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -594,8 +614,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "20°F Sawatch Down Sleeping Bag - 650 Fill Power, Mummy (For Women)",
-      "Name": "Marmot 20°F Sawatch Down Sleeping Bag - 650 Fill Power, Mummy (For Women)",
+      "NameWithoutBrand": "20\u00b0F Sawatch Down Sleeping Bag - 650 Fill Power, Mummy (For Women)",
+      "Name": "Marmot 20\u00b0F Sawatch Down Sleeping Bag - 650 Fill Power, Mummy (For Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/marmot-20-f-sawatch-down-sleeping-bag-650-fill-power-mummy-for-women-in-ocean-sea-scape~p~14gvg_01~80.jpg",
@@ -610,7 +630,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -620,7 +642,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/marmot-20-f-sawatch-down-sleeping-bag-650-fill-power-mummy-for-women-in-ocean-sea-scape~p~14gvg_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Sleep under the stars with Marmot&#39;s Sawatch sleeping bag, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. Sleep under the stars with Marmot&#39;s Sawatch sleeping bag, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down\u2019s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
       "SuggestedRetailPrice": 260,
       "Brand": {
         "Id": "1308",
@@ -692,8 +714,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "-4°F Oscar Sleeping Bag - Mummy, Long",
-      "Name": "Nordisk -4°F Oscar Sleeping Bag - Mummy, Long",
+      "NameWithoutBrand": "-4\u00b0F Oscar Sleeping Bag - Mummy, Long",
+      "Name": "Nordisk -4\u00b0F Oscar Sleeping Bag - Mummy, Long",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/nordisk-4-f-oscar-sleeping-bag-mummy-long-in-mustard~p~10hxy_01~80.jpg",
@@ -708,7 +730,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -761,7 +785,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/klymit-insulated-static-v-sleeping-pad-inflatable-in-kings-camo~p~832ud_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeout~g~3281\" title=\"Closeout: - Closeout indicates an item may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeout</a></strong>. With added R-value for top-drawer performance, Klymit‘s Insulated Static V sleeping pad harnesses four-season performance for unwinding under the stars on any night of the year. The body-mapped V-chambers limit air movement, and the ergonomic body mapping with dynamic side rails cradles your body all night long.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeout~g~3281\" title=\"Closeout: - Closeout indicates an item may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeout</a></strong>. With added R-value for top-drawer performance, Klymit\u2018s Insulated Static V sleeping pad harnesses four-season performance for unwinding under the stars on any night of the year. The body-mapped V-chambers limit air movement, and the ergonomic body mapping with dynamic side rails cradles your body all night long.",
       "SuggestedRetailPrice": 110,
       "Brand": {
         "Id": "4173",
@@ -833,8 +857,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "Core Sleeping Pad - 72x20x3.5”",
-      "Name": "ALPS Mountaineering Core Sleeping Pad - 72x20x3.5”",
+      "NameWithoutBrand": "Core Sleeping Pad - 72x20x3.5\u201d",
+      "Name": "ALPS Mountaineering Core Sleeping Pad - 72x20x3.5\u201d",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/alps-mountaineering-core-sleeping-pad-72x20x35-in-tangerine~p~858yv_01~80.jpg",
@@ -858,7 +882,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/alps-mountaineering-core-sleeping-pad-72x20x35-in-gray~p~858yv_02~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong>Excess</strong>. With its ultralight weight, horizontal tube design and long-lasting ripstop <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> construction, the ALPS Mountaineering Core sleeping pad is a trusty companion for overnight ventures into the backcountry.",
+      "DescriptionHtmlSimple": "<strong>Excess</strong>. With its ultralight weight, horizontal tube design and long-lasting ripstop <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont\u00ae, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> construction, the ALPS Mountaineering Core sleeping pad is a trusty companion for overnight ventures into the backcountry.",
       "SuggestedRetailPrice": 80,
       "Brand": {
         "Id": "1156",
@@ -930,8 +954,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "20°F KSB Down Sleeping Bag - Mummy, 650 Fill Power",
-      "Name": "Klymit 20°F KSB Down Sleeping Bag - Mummy, 650 Fill Power",
+      "NameWithoutBrand": "20\u00b0F KSB Down Sleeping Bag - Mummy, 650 Fill Power",
+      "Name": "Klymit 20\u00b0F KSB Down Sleeping Bag - Mummy, 650 Fill Power",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/klymit-20-f-ksb-down-sleeping-bag-mummy-650-fill-power-in-black~p~843yw_01~80.jpg",
@@ -978,8 +1002,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "28°F Gorm Sleeping Bag - Mummy, Long",
-      "Name": "Nordisk 28°F Gorm Sleeping Bag - Mummy, Long",
+      "NameWithoutBrand": "28\u00b0F Gorm Sleeping Bag - Mummy, Long",
+      "Name": "Nordisk 28\u00b0F Gorm Sleeping Bag - Mummy, Long",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/nordisk-28-f-gorm-sleeping-bag-mummy-long-in-limoges-blue~p~10hpy_01~80.jpg",
@@ -994,7 +1018,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["L"]
+        "ZIPPER": [
+          "L"
+        ]
       },
       "Colors": [
         {
@@ -1004,7 +1030,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/nordisk-28-f-gorm-sleeping-bag-mummy-long-in-limoges-blue~p~10hpy_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong>Excess</strong>. Recharge on cold nights with Nordisk&#39;s 28&#176;F Gorm sleeping bag, made from smooth <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> with warm, durable synthetic insulation and a wider shape for maximum comfort.",
+      "DescriptionHtmlSimple": "<strong>Excess</strong>. Recharge on cold nights with Nordisk&#39;s 28&#176;F Gorm sleeping bag, made from smooth <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont\u00ae, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> with warm, durable synthetic insulation and a wider shape for maximum comfort.",
       "SuggestedRetailPrice": 240,
       "Brand": {
         "Id": "33133",
@@ -1028,8 +1054,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "20°F Guide Sleeping Bag - Mummy (For Women)",
-      "Name": "The North Face 20°F Guide Sleeping Bag - Mummy (For Women)",
+      "NameWithoutBrand": "20\u00b0F Guide Sleeping Bag - Mummy (For Women)",
+      "Name": "The North Face 20\u00b0F Guide Sleeping Bag - Mummy (For Women)",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/the-north-face-20-f-guide-sleeping-bag-mummy-for-women-in-high-rise-grey-hyper-blue~p~985kf_01~80.jpg",
@@ -1044,7 +1070,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["R"]
+        "ZIPPER": [
+          "R"
+        ]
       },
       "Colors": [
         {
@@ -1078,8 +1106,8 @@
         "ReviewCount": 0,
         "AverageRating": 0
       },
-      "NameWithoutBrand": "20°F Dolomite Double Sleeping Bag - Rectangular",
-      "Name": "The North Face 20°F Dolomite Double Sleeping Bag - Rectangular",
+      "NameWithoutBrand": "20\u00b0F Dolomite Double Sleeping Bag - Rectangular",
+      "Name": "The North Face 20\u00b0F Dolomite Double Sleeping Bag - Rectangular",
       "IsFamousBrand": false,
       "Images": {
         "PrimarySmall": "https://i.stpost.com/the-north-face-20-f-dolomite-double-sleeping-bag-rectangular-in-cosmic-blue-zinc-grey~p~985tp_02~80.jpg",
@@ -1094,7 +1122,9 @@
         ]
       },
       "SizesAvailable": {
-        "ZIPPER": ["RH"]
+        "ZIPPER": [
+          "RH"
+        ]
       },
       "Colors": [
         {
@@ -1147,7 +1177,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/therm-a-rest-trail-king-sleeping-pad-self-inflating-regular-in-yellow-green~p~268gc_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/2nds~g~2314\" title=\"2nds: - These are items with barely perceptible blemishes or slight irregularities that do not affect fit, performance or longevity such as an error in the stitching or a slight fading of the product’s color. Labels on 2nds are usually clipped or marked by the manufacturer, and 2nds are often offered at lower prices.\">2nds</a></strong>. Designed to inflate in a matter of seconds, Therm-a-Rest&#39;s Trail King SV sleeping pad offers unprecedented ease-of-use. Backpackers will appreciate 2.5&quot; of ultra-supportive <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of “dead space” or air throughout an insulating material inside a sleeping bag or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the “puffiness” of down or synthetic insulation.\">loft</a> and the auto-reversing SpeedValve that lets you deflate the mattress in a flash as well.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/2nds~g~2314\" title=\"2nds: - These are items with barely perceptible blemishes or slight irregularities that do not affect fit, performance or longevity such as an error in the stitching or a slight fading of the product\u2019s color. Labels on 2nds are usually clipped or marked by the manufacturer, and 2nds are often offered at lower prices.\">2nds</a></strong>. Designed to inflate in a matter of seconds, Therm-a-Rest&#39;s Trail King SV sleeping pad offers unprecedented ease-of-use. Backpackers will appreciate 2.5&quot; of ultra-supportive <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of \u201cdead space\u201d or air throughout an insulating material inside a sleeping bag or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the \u201cpuffiness\u201d of down or synthetic insulation.\">loft</a> and the auto-reversing SpeedValve that lets you deflate the mattress in a flash as well.",
       "SuggestedRetailPrice": 129.95,
       "Brand": {
         "Id": "3177",

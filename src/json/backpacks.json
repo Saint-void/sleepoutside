@@ -38,7 +38,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["M", "L"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "M",
+          "L"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "02",
@@ -86,7 +91,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S/M", "M/L"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S/M",
+          "M/L"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -436,7 +446,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S/M", "XS/S"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S/M",
+          "XS/S"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "03",
@@ -612,7 +627,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S", "M"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S",
+          "M"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "02",
@@ -712,7 +732,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["XS/S", "S/M"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "XS/S",
+          "S/M"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -808,7 +833,11 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["M/L"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "M/L"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -856,7 +885,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S/M", "M/L"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S/M",
+          "M/L"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "02",
@@ -1028,7 +1062,11 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["M"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "M"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -1076,7 +1114,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S/M", "L/XL"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S/M",
+          "L/XL"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -1128,7 +1171,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["M", "L"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "M",
+          "L"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "02",
@@ -1180,7 +1228,13 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S", "M", "XL"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S",
+          "M",
+          "XL"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -1290,7 +1344,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["L/XL", "S/M"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "L/XL",
+          "S/M"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -1338,7 +1397,13 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S", "M", "XS"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S",
+          "M",
+          "XS"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "02",
@@ -1547,7 +1612,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S/M", "M/L"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S/M",
+          "M/L"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "02",
@@ -1949,7 +2019,14 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["M", "L", "S", "XL"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "M",
+          "L",
+          "S",
+          "XL"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -2144,7 +2221,12 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S/M", "M/L"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S/M",
+          "M/L"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -2159,7 +2241,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/kelty-siro-50l-backpack-internal-frame-in-black~p~445fj_02~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/overstock~g~2313\" title=\"Overstock: - A surplus quantity of items that exceeded the vendor’s ability to sell them during the season for which they were intended. Overstocks are purchased by companies like Sierra Trading Post to help vendors clear out excess inventory. Original retail prices on overstocks are drastically reduced for sale, and quality is always first-rate.\">Overstock</a></strong>. Lightweight and streamlined, Kelty&#39;s 45L Siro backpack offers a FeatherFIT suspension system with a suspended AirMesh back panel and integrated lumbar support to keep you in comfort on the long haul.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/overstock~g~2313\" title=\"Overstock: - A surplus quantity of items that exceeded the vendor\u2019s ability to sell them during the season for which they were intended. Overstocks are purchased by companies like Sierra Trading Post to help vendors clear out excess inventory. Original retail prices on overstocks are drastically reduced for sale, and quality is always first-rate.\">Overstock</a></strong>. Lightweight and streamlined, Kelty&#39;s 45L Siro backpack offers a FeatherFIT suspension system with a suspended AirMesh back panel and integrated lumbar support to keep you in comfort on the long haul.",
       "SuggestedRetailPrice": 199.95,
       "Brand": {
         "Id": "1105",
@@ -2260,7 +2342,11 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["S/M"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "S/M"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "01",
@@ -2269,7 +2355,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/the-north-face-fovero-85-pack-in-tnf-black-high-rise-grey~p~20fwp_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. The North Face&#39;s Fovero 85 pack will be your pack of choice for your next backcountry adventure with its OPTIFIT suspension and durable ripstop <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> construction.",
+      "DescriptionHtmlSimple": "<strong><a class=\"glossaryTermLink\" href=\"/closeouts~g~2312\" title=\"Closeouts: - Closeouts are items that may be last year's model or color. While closeout items are often offered at discounted prices, the products themselves are always high quality. Closeout items can include anything from shoes, underwear and apparel, to rugs, tents and outdoor equipment. Closeouts are often a high percentage off the retail price.\">Closeouts</a></strong>. The North Face&#39;s Fovero 85 pack will be your pack of choice for your next backcountry adventure with its OPTIFIT suspension and durable ripstop <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont\u00ae, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> construction.",
       "SuggestedRetailPrice": 250.0,
       "Brand": {
         "Id": "1440",
@@ -2986,7 +3072,7 @@
           "ColorPreviewImageSrc": "https://i.stpost.com/dynafit-speed-28-l-backpack-in-carbon-black~p~16dxr_01~160.jpg"
         }
       ],
-      "DescriptionHtmlSimple": "<strong>Closeout</strong>. Dynafit&#39;s Speed backpack features a roomy compartment with a full-wrap zipper, an anatomical cut, breathable straps and an <a class=\"glossaryTermLink\" href=\"/air-mesh~g~2351\" title=\"Air Mesh: - Special open-weave fabric used as an inner layer to improve ventilation and moisture-evaporation. Air mesh is often used to ventilate high-performance clothing such as sports shoes and hunting shirts. Motor-sport jackets, pants and gloves made from Kevlar® often feature air mesh material because it is lightweight and breathable, so it won’t further weigh down already heavy motorcycling apparel.\">air mesh</a> back panel system that makes it ideal for backcountry tours.",
+      "DescriptionHtmlSimple": "<strong>Closeout</strong>. Dynafit&#39;s Speed backpack features a roomy compartment with a full-wrap zipper, an anatomical cut, breathable straps and an <a class=\"glossaryTermLink\" href=\"/air-mesh~g~2351\" title=\"Air Mesh: - Special open-weave fabric used as an inner layer to improve ventilation and moisture-evaporation. Air mesh is often used to ventilate high-performance clothing such as sports shoes and hunting shirts. Motor-sport jackets, pants and gloves made from Kevlar\u00ae often feature air mesh material because it is lightweight and breathable, so it won\u2019t further weigh down already heavy motorcycling apparel.\">air mesh</a> back panel system that makes it ideal for backcountry tours.",
       "SuggestedRetailPrice": 110.0,
       "Brand": {
         "Id": "1364",
@@ -3183,7 +3269,11 @@
           }
         ]
       },
-      "SizesAvailable": { "SIZE": ["XS/S"] },
+      "SizesAvailable": {
+        "SIZE": [
+          "XS/S"
+        ]
+      },
       "Colors": [
         {
           "ColorCode": "02",
