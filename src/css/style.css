@@ -205,11 +205,34 @@ button {
 
 /* Start cart list card styles */
 .cart-card {
+  position: relative;
   display: grid;
   grid-template-columns: 25% auto 15%;
   font-size: var(--small-font);
   /* max-height: 120px; */
   align-items: center;
+}
+
+.cart-card__remove {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: var(--dark-grey);
+  cursor: pointer;
+  line-height: 1;
+  padding: 0.2rem 0.4rem;
+  user-select: none;
+  border-radius: 3px;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.cart-card__remove:hover,
+.cart-card__remove:focus-visible {
+  color: #b30000;
+  transform: scale(1.15);
+  outline: none;
 }
 
 .cart-card__image {
