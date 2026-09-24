@@ -49,3 +49,59 @@ export function getParam(param) {
   const urlParams = new URLSearchParams(queryString);
   return urlParams.get(param);
 }
+
+// render template into a parent element
+export function renderWithTemplate(template, parentElement, data, callback) {
+  if (!parentElement) return;
+  if (parentElement.insertAdjacentHTML) {
+    parentElement.insertAdjacentHTML("afterbegin", template);
+  } else {
+    parentElement.innerHTML = template;
+  }
+  if (callback) {
+    callback(data);
+  }
+}
+
+// render a list of items using a template function
+export function renderListWithTemplate(
+  templateFn,
+  parentElement,
+  list,
+  position = "afterbegin",
+  clear = false
+) {
+  if (!parentElement) return;
+  const htmlStrings = list.map(templateFn);
+  if (clear) {
+    parentElement.innerHTML = "";
+  }
+  if (parentElement.insertAdjacentHTML) {
+    parentElement.insertAdjacentHTML(position, htmlStrings.join(""));
+  } else {
+    parentElement.innerHTML = htmlStrings.join("");
+  }
+}
+
+// load an HTML template from path
+export async function loadTemplate(path) {
+  const res = await fetch(path);
+  const template = await res.text();
+  return template;
+}
+
+// load header and footer partials into DOM
+export async function loadHeaderFooter(callback) {
+  if (typeof window === "undefined") {
+    return;
+  }
+  const headerTemplate = await loadTemplate("/partials/header.html");
+  const footerTemplate = await loadTemplate("/partials/footer.html");
+
+  const headerElement = qs("#main-header") || qs("header");
+  const footerElement = qs("#main-footer") || qs("footer");
+
+  renderWithTemplate(headerTemplate, headerElement, null, callback);
+  renderWithTemplate(footerTemplate, footerElement);
+}
+
