@@ -284,3 +284,50 @@ footer {
   font-size: var(--small-font);
   padding: 1em;
 }
+
+/* Product categories grid */
+.categories {
+  padding: 1rem;
+  text-align: center;
+}
+
+.category-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 1.5rem 0;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: var(--dark-grey);
+  width: 140px;
+  padding: 1rem;
+  border: 1px solid var(--light-grey);
+  border-radius: 8px;
+  background-color: #fff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.category-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.category-card img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+}
+
+.category-card h2 {
+  font-size: 1.1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+  color: var(--dark-grey);
+}
+
