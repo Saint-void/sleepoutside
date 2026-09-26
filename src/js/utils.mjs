@@ -90,6 +90,26 @@ export async function loadTemplate(path) {
   return template;
 }
 
+// setup search bar event handling and input sync
+export function setupSearchBar() {
+  const searchForm = qs("#search-form");
+  const searchInput = qs("#search-input");
+  if (!searchForm || !searchInput) return;
+
+  const currentSearch = getParam("search") || getParam("q");
+  if (currentSearch) {
+    searchInput.value = currentSearch;
+  }
+
+  searchForm.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const query = searchInput.value.trim();
+    if (query) {
+      window.location.href = `/product_listing/index.html?search=${encodeURIComponent(query)}`;
+    }
+  });
+}
+
 // load header and footer partials into DOM
 export async function loadHeaderFooter(callback) {
   if (typeof window === "undefined") {
@@ -101,7 +121,12 @@ export async function loadHeaderFooter(callback) {
   const headerElement = qs("#main-header") || qs("header");
   const footerElement = qs("#main-footer") || qs("footer");
 
-  renderWithTemplate(headerTemplate, headerElement, null, callback);
+  renderWithTemplate(headerTemplate, headerElement, null, () => {
+    setupSearchBar();
+    if (callback) {
+      callback();
+    }
+  });
   renderWithTemplate(footerTemplate, footerElement);
 }
 

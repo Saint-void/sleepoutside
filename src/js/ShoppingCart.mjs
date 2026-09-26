@@ -9,11 +9,18 @@ export function cartItemTemplate(item) {
     item.Colors && item.Colors[0] ? item.Colors[0].ColorName : "";
   const itemId = item.Id || item.id;
 
+  const itemImage =
+    item.Image ||
+    item.Images?.PrimaryMedium ||
+    item.Images?.PrimaryLarge ||
+    item.Images?.PrimarySmall ||
+    "";
+
   const newItem = `<li class="cart-card divider">
   <span class="cart-card__remove" role="button" tabindex="0" data-id="${itemId}" aria-label="Remove ${item.Name || "item"} from cart">X</span>
   <a href="#" class="cart-card__image">
     <img
-      src="${item.Image}"
+      src="${itemImage}"
       alt="${item.Name}"
     />
   </a>

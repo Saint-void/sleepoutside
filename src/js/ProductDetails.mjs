@@ -1,18 +1,29 @@
 import { setLocalStorage } from "./utils.mjs";
 
 function productDetailsTemplate(product) {
+  const imgSrc =
+    product.Image ||
+    product.Images?.PrimaryLarge ||
+    product.Images?.PrimaryMedium ||
+    product.Images?.PrimarySmall ||
+    "";
+  const brandName = product.Brand?.Name || "";
+  const productName = product.NameWithoutBrand || product.Name || "";
+  const colorName =
+    product.Colors && product.Colors[0] ? product.Colors[0].ColorName : "";
+
   return `<section class="product-detail">
-    <h3>${product.Brand.Name}</h3>
-    <h2 class="divider">${product.NameWithoutBrand}</h2>
+    <h3>${brandName}</h3>
+    <h2 class="divider">${productName}</h2>
     <img
       class="divider"
-      src="${product.Image}"
-      alt="${product.NameWithoutBrand}"
+      src="${imgSrc}"
+      alt="${productName}"
     />
     <p class="product-card__price">$${product.FinalPrice}</p>
-    <p class="product__color">${product.Colors[0].ColorName}</p>
+    ${colorName ? `<p class="product__color">${colorName}</p>` : ""}
     <p class="product__description">
-      ${product.DescriptionHtmlSimple}
+      ${product.DescriptionHtmlSimple || ""}
     </p>
     <div class="product-detail__add">
       <button id="addToCart" data-id="${product.Id}">Add to Cart</button>

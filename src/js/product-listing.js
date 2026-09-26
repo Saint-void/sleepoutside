@@ -4,9 +4,10 @@ import ProductList from "./ProductList.mjs";
 
 loadHeaderFooter();
 
-const category = getParam("category") || "tents";
-const dataSource = new ProductData();
+const search = getParam("search") || getParam("q");
+const category = getParam("category");
+const dataSource = new ProductData(category);
 const listElement = document.querySelector(".product-list");
-const myList = new ProductList(category, dataSource, listElement);
+const myList = new ProductList(category, dataSource, listElement, search);
 
 myList.init();
